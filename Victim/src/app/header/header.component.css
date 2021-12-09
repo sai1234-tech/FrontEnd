@@ -1,0 +1,86 @@
+img {
+margin-top: 10px;
+margin-left: 142px;
+width:300px;
+height: 100px;
+
+}
+.sbp{
+margin-top: 10px;
+left: 31x;
+width: 100px;
+height: 30px;
+text-align: left;
+font: normal normal medium 22px/33px Poppins;
+letter-spacing: 0px;
+color: #515151;
+opacity: 1;
+}
+.pgm{
+    top: 10px;
+    left: 918px;
+    width: 108px;
+    height: 31px;
+    text-align: left;
+    font: normal normal medium 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #515151;
+    opacity: 1;
+    }
+li a{
+    top: 10px;
+left: 765px;
+width: 91px;
+height: 31px;
+text-align: left;
+font: normal normal medium 22px/33px Poppins;
+letter-spacing: 0px;
+color: #515151;
+opacity: 1;
+
+}
+
+.pro{
+    top: 10px;
+left: 1089px;
+width: 88px;
+height: 31px;
+text-align: left;
+font: normal normal medium 22px/33px Poppins;
+letter-spacing: 0px;
+color: #515151;
+opacity: 1;
+
+}
+.cs{
+    top: 10px;
+left: 1211px;
+width: 170px;
+height: 31px;
+text-align: left;
+font: normal normal medium 22px/33px Poppins;
+letter-spacing: 0px;
+color: #515151;
+opacity: 1;
+}
+.si{
+    top:10px;
+left: 1415px;
+width: 100px;
+height: 31px;
+text-align: left;
+font: normal normal medium 22px/33px Poppins;
+letter-spacing: 0px;
+color: #515151;
+opacity: 1;
+
+}
+.gs{
+ border-radius:100px; 
+top: 10px;
+left: 152px;
+width: 256px;
+height: 72px;
+background: #09A360 0% 0% no-repeat padding-box;
+opacity: 1
+}

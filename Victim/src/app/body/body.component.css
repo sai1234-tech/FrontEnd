@@ -1,0 +1,164 @@
+h1{
+    top: 300px;
+left: 500px;
+width: 1130px;
+height: 187px;
+color: var(--unnamed-color-0d3900);
+text-align: center;
+font: normal normal 600 62px/82px Poppins;
+letter-spacing: 0px;
+color: #0D3900;
+}
+
+
+
+.h1::before {
+    
+top: 303px;
+left: 125px; 
+width: 80px;
+height: 50px;
+/* background: transparent url('img/Icon ionic-ios-cloud.png') 0% 0% no-repeat padding-box; */
+opacity: 1;
+}
+
+.h1::after{
+    top: 300px;
+    left: 500px;
+    width: 1130px;
+    height: 187px;
+    letter-spacing: 0px;
+
+}
+
+/* p{
+    top: 457px;
+left: 443px;
+width: 1034px;
+height: 77px;
+color: var(--unnamed-color-0d3900);
+text-align: center;
+font: normal normal normal 25px/34px Poppins;
+letter-spacing: 0px;
+color: #0D3900;
+opacity: 1;
+} */
+
+.container{
+    text-align: center;  
+  
+    /* width: 300px;  
+    height: 200px;   */
+    padding-top: 100px;  
+    }  
+    #btn{  
+        font-size: 25px; 
+        color:white; 
+        height: 72px;
+        width:322px;
+        border-radius: 50px;
+        display:inline-block;
+
+        }  
+        
+ /* .min{
+
+width: 20%;
+height: 30%;
+margin-left: 10px;
+
+}  */
+
+div.container{
+top: 50px;
+left: 0px;
+width: 100px;
+height: 100px;
+margin:0;
+padding:0; 
+}
+.center{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.para{
+    top: 457px;
+    left: 443px;
+    width: 1034px;
+    height: 77px;
+    color: var(--unnamed-color-0d3900);
+    text-align: center;
+    font: normal normal normal 25px/34px Poppins;
+    letter-spacing: 0px;
+}
+.btn {
+   margin-left:45%;
+    text-align:center;
+    background: #09A360 0% 0% no-repeat padding-box;
+    border-radius: 36px;
+        font: normal normal normal 22px/34px Poppins;
+
+    color:green;
+}
+h1{
+    top: 984px;
+left: 143px;
+width: 500px;
+height: 244px;
+color: var(--unnamed-color-0d3900);
+text-align: center;
+font: normal normal 600 42px/68px Poppins;
+letter-spacing: 0px;
+color: #0D3900;
+opacity: 1;
+}
+.container2 {
+    
+        padding:1%;
+        float:left;
+    
+}
+/* 
+.img-cont{
+         
+        margin-left:2%;
+       float:left; 
+       height:100px;
+      max-width:100px;     
+} */
+
+.img-cont{
+    width:"100%";
+    height:"100%"
+
+
+}
+
+
+.cdn{
+    text-align:center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: #0D3900;
+
+}
+
+.dcs{
+    width:20px;
+    height:40px;
+    position:relative;
+    top:0;
+    left:0;
+}
+.dc {
+    position:absolute;
+    top:60px;
+    left:80px;
+}
+
+.column {
+    width:80px;
+    padding:10px;
+}

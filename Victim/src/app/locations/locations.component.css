@@ -1,0 +1,43 @@
+
+img{
+    top: 10px;
+left: 100px;
+width: 83px;
+height: 82px;
+
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 19px;
+}
+
+
+img{
+    width:100%;
+    height:75%;
+}
+
+.card{
+    top: 100px;
+left: 150px;
+width: 600px;
+height: 232px;
+background: transparent 0% 0% no-repeat padding;
+opacity: 1;
+}
+.column {
+    /* padding:5px; */
+    float:left
+}
+
+row::after{
+    content:"";
+    clear:both;
+    display:table;
+}
+.pageBreak {
+    page-break-after: always;
+  }
+  
